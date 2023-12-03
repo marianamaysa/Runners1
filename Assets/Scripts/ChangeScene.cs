@@ -8,7 +8,6 @@ public class ChangeScene : MonoBehaviour
     public void SceneChange(string scene)
     {
         SceneManager.LoadScene(scene);
-        aaa
     }
 
     public void Quit()
